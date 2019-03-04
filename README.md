@@ -1,4 +1,4 @@
-# CNI -Genie Website
+# CNI-Genie Website
 Welcome to the repository of the public website for CNI-Genie.
 
 We use [Hugo](https://gohugo.io/) to format and generate our website, and
