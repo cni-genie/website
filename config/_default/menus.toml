@@ -1,0 +1,27 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+
+
+# Right Menu
+[[main_right]]
+  name = "<i class=\"fab fa-github-alt\" style=\"color: #333; font-size: 1rem; line-height: 1.25\"></i>"
+  post = ""
+  url = "https://github.com/cni-genie/CNI-Genie"
+  weight = 10
+
+# [[main_right]]
+#  name = "<i class=\"fab fa-twitter\" style=\"color: #55acee; font-size: 1rem; line-height: 1.25\"></i>"
+#  post = ""
+#  url = "#"
+#  weight = 20
+
+[[main_right]]
+  name = "<i class=\"fab fa-slack\" style=\"color: #55acee; font-size: 1rem; line-height: 1.25\"></i>"
+  post = ""
+  url = "https://cni-genie.slack.com/"
+  weight = 20
+  
+
