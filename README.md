@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d3d2d1ad-4f4f-4da6-846c-83dfd54e369f/deploy-status)](https://app.netlify.com/sites/cnigenie/deploys)  
+
 # CNI-Genie Website
 Welcome to the repository of the public website for CNI-Genie.
 

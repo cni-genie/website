@@ -1,0 +1,38 @@
+# Languages
+#   Create a `[X]` block for each language you want, where X is the language ID.
+#   Refer to https://sourcethemes.com/academic/docs/language/
+
+# Configure the English version of the site.
+[en]
+  languageCode = "en-us"
+  contentDir = "content/en"
+
+#Uncomment the lines below to configure your website in a second language.
+[zh]
+  languageCode = "zh-Hans"
+  contentDir = "content/zh"
+  title = "CNI-Genie "
+  [zh.params]
+    description = ""
+  
+  
+  # Right Menu
+[[zh.menu.main_right]]
+  name = "<i class=\"fab fa-github-alt\" style=\"color: #333; font-size: 1rem; line-height: 1.25\"></i>"
+  post = ""
+ url = "https://github.com/cni-genie/CNI-Genie"
+  weight = 10
+
+# [[zh.menu.main_right]]
+#  name = "<i class=\"fab fa-twitter\" style=\"color: #55acee; font-size: 1rem; line-height: 1.25\"></i>"
+#  post = ""
+#  url = "#"
+#  weight = 20
+
+[[zh.menu.main_right]]
+  name = "<i class=\"fab fa-slack\" style=\"color: #55acee; font-size: 1rem; line-height: 1.25\"></i>"
+  post = ""
+  url = "https://cni-genie.slack.com/"
+  weight = 30
+
+
